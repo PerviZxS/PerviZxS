@@ -18,7 +18,7 @@ Cybersecurity & DevSecOps background with a strong focus on system architecture.
 **Backend**:  Django · Flask · PostgreSQL · Redis · Docker <br>
 **Security Tooling**:  Splunk · Wazuh · OpenCTI · TheHive · Security Onion · Sysmon · Shuffle · The Hive  etc. <br>
 **DevSecOps**:  Jenkins · SonarQube · Trivy · GitLeaks · OWASP ZAP · DefectDojo · SBOM <br>
-**Cloud & Ops**:  AWS · Kubernetes · Git · Linux <br>
+**Cloud & Ops**:  AWS · Kubernetes · Git · Linux · Networking <br>
 **Practices**:  Threat Modeling · Detection Engineering · Supply-Chain Risk · ISO 27001/27002 · DevSecOps 
 
 ---
