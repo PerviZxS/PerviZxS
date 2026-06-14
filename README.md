@@ -13,7 +13,7 @@ Cybersecurity & DevSecOps background with a strong focus on system architecture.
 - 🏗️ **Secure system architecture** 
 - 🔐 **Defensible security engineering**
 
-🧰 Stack
+🧰 Stack <br>
 **Languages**:  Python · Bash · SQL <br>
 **Backend**:  Django · Flask · PostgreSQL · Redis · Docker <br>
 **Security Tooling**:  Splunk · Wazuh · OpenCTI · TheHive · Security Onion · Sysmon · Shuffle · The Hive  etc. <br>
