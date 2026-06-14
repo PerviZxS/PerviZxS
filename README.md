@@ -13,12 +13,13 @@ Cybersecurity & DevSecOps background with a strong focus on system architecture.
 - 🏗️ **Secure system architecture** 
 - 🔐 **Defensible security engineering**
 
-### 🧰 Stack
-
-**Languages** Python · SQL <br> 
-**Backend** Django · Flask · PostgreSQL · Redis · Docker · LB <br>
-**Security** SIEM/SOAR · SAST/DAST/SCA · Threat Modeling · Supply-Chain Risk · ISO 27001/27002 <br>
-**Cloud & Ops** AWS · Kubernetes · Jenkins · Git · Linux
+🧰 Stack
+**Languages**:  Python · Bash · SQL <br>
+**Backend**:  Django · Flask · PostgreSQL · Redis · Docker <br>
+**Security Tooling**:  Splunk · Wazuh · OpenCTI · TheHive · Security Onion · Sysmon · Shuffle · The Hive  etc. <br>
+**DevSecOps**:  Jenkins · SonarQube · Trivy · GitLeaks · OWASP ZAP · DefectDojo · SBOM <br>
+**Cloud & Ops**:  AWS · Kubernetes · Git · Linux <br>
+**Practices**:  Threat Modeling · Detection Engineering · Supply-Chain Risk · ISO 27001/27002 · DevSecOps 
 
 ---
 
